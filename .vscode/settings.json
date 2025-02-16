@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "pcb.h": "c",
+    "const.h": "c",
+    "init.h": "c",
+    "types.h": "c",
+    "libumps.h": "c",
+    "exceptions.h": "c",
+    "ssi.h": "c",
+    "interrupt.h": "c",
+    "vmsupport.h": "c",
+    "sst.h": "c"
+  }
+}

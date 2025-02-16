@@ -2,7 +2,7 @@
 
 Operating Systems project for uni.  
 
-![Screenshot]()
+![Screenshot](umps3.png)
 
 ## General Description
 
@@ -51,7 +51,7 @@ cd testers
 make
 ```
 
-Open `umps3` and create the machine
+Install and open umps3 (linux only), choose open an existing machine configuration, then select the `umps3.json` file
 
 ## Authors
 
